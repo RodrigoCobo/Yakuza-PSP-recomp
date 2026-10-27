@@ -58,7 +58,7 @@ Most of the work happens **on the console itself**, with the PC connected over U
 | PSP-1000 | 32 MB | Not supported (not enough memory) |
 | PSP-2000 / 3000 | 64 MB | Target |
 | **PSP Go** | 64 MB | **Tested** (ARK custom firmware) |
-| PSP Street | 64 MB | Target (untested) |
+| PSP Street | 64 MB | Target |
 
 Requires custom firmware and the 64 MB mode.
 
@@ -66,7 +66,7 @@ Requires custom firmware and the 64 MB mode.
 
 - [x] Boot, menus, cutscenes and gameplay on real hardware
 - [x] Loading and saving
-- [x] Correct picture on the PSP Go (including a fix for a mosaic that only existed on hardware)
+- [x] Correct picture on the PSP Go
 - [x] Remote development over USB
 - [ ] Playable speed without frame skipping
 - [ ] Sound
